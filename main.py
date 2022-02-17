@@ -26,5 +26,5 @@ for i in key:
 print(key)
 print()
 
-if __name__ == '__main__':
+if __name__ == '__main__dqwjbjdbjqwjd':
 duplicate_2(input_n())
